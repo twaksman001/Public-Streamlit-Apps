@@ -1,7 +1,7 @@
-streamlit
+# streamlit
 pandas
 plotly.express
 seaborn
-matplotlib
-numpy
-scipy
+# matplotlib
+# numpy
+# scipy
